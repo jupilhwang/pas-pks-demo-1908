@@ -1,7 +1,7 @@
 This is for Demo and Overview for Pivotal Application Service and Container Service
 
-\- 2019.08.14 (Wed) / Jupil Hwang
-\- 2019.11.05 (Thu) / Jupil Hwang
+- 2019.08.14 (Wed) / Jupil Hwang
+- 2019.11.05 (Thu) / Jupil Hwang
 
 ### Agenda
 <del>1. [Pivotal Overview](docs/1.pivotal_overview.md)</del>\
